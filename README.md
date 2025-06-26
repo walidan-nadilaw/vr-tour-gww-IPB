@@ -26,9 +26,8 @@ A virtual reality experience that allows users to explore the Gedung Widya Wacan
 git lfs install
 git clone https://github.com/your-username/GWW-Virtual-Tour.git
 ```
----
 
-🏁 Getting Started
+### 🏁 Getting Started
 1. Open the project in Unity Hub.
 2. Open the scene: Assets/Scenes/SampleScene.unity.
 3. Enter Play mode.
@@ -38,7 +37,7 @@ git clone https://github.com/your-username/GWW-Virtual-Tour.git
 
 ---
 
-🛠️ Development Methodology
+## 🛠️ Development Methodology
 This project uses the Incremental Development method:
 1. Plan: Identify core features (teleport, VR camera, UI)
 2. Build: Implement one feature at a time (e.g., adding teleport anchors)
@@ -47,7 +46,7 @@ This project uses the Incremental Development method:
 
 ---
 
-📊 Discussion of Results
+## 📊 Discussion of Results
 
 - Successfully implemented 6 teleportation anchors across GWW using Teleportation Anchor components with gaze interaction or mouse input for testing.
 - Improved Git hygiene by updating .gitignore to exclude unnecessary Logs/, Temp/, and UnityLockfile to avoid permission errors or file clutter.
