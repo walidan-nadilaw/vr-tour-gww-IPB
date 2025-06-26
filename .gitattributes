@@ -1,0 +1,14 @@
+# Use LF for scripts
+*.cs text eol=lf
+
+# Binary Unity files (no line ending conversion)
+*.unity binary
+*.prefab binary
+*.mat binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.meta text eol=lf
+
+# Optional: auto normalize everything else
+* text=auto
