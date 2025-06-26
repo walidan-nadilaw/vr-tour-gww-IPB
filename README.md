@@ -19,17 +19,16 @@ A virtual reality experience that allows users to explore the Gedung Widya Wacan
 
 ### Prerequisites
 - Unity Hub + Unity Editor version **2022.3 LTS** (URP Template)
-- Git + Git LFS installed
+- Git installed
 - Clone the repository:
 
 ```bash
-git lfs install
 git clone https://github.com/your-username/GWW-Virtual-Tour.git
 ```
 
 ### 🏁 Getting Started
 1. Open the project in Unity Hub.
-2. Open the scene: Assets/Scenes/SampleScene.unity.
+2. Open GWW-virtual-tour in Unity Editor.
 3. Enter Play mode.
 4. Use mouse and keyboard to navigate:
   - press left-key mouse to change gaze
